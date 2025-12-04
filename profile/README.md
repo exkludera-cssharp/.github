@@ -1,9 +1,9 @@
 <div align="center">
   <img width="50" height="50" alt="cssharp" src="https://github.com/user-attachments/assets/3393573f-29be-46e1-bc30-fafaec573456" />
   <h3>My CS# Plugins</h3>
-  <sup>all my counterstrikesharp plugins gathered in one place.</sup>
+  <i>all my counterstrikesharp plugins gathered in one place.</i>
   
-  <sup><sub>(I got tired of having my profile full of repositories😸)</sub></sup>
+  <sup>(I got tired of having my profile full of repositories😸)</sup>
   
   <br> 
   
